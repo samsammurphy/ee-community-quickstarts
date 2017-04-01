@@ -4,7 +4,7 @@ This page shows how to shared you gee repositories and get simple indexing to he
 
 - Oragnized your snippets under meanning folders using [code editor](https://code.earthengine.google.com/)
 - Add one/two lines comment in the head of your scripts as following
-```
+```javascript
 // Composite an image collection and clip it to a boundary.
 // See also: FilteredComposite, which filters the collection by bounds instead.
 ```
