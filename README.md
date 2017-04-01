@@ -1,4 +1,4 @@
-# Contribute Your Repositories to GEE community for Easy Life
+# Contribute Your Repositories to GEE community
 
 This page shows how to shared you gee repositories and get simple indexing to help other people find useful stuffs easily.
 
@@ -21,6 +21,5 @@ $ python ee-index.py [your repo folder]
 
 
 # List of Repos
-- []()
 - [Google Earth Engine Examples](https://github.com/gee-community/ee-examples)
 - [Jun Xiong's snippets](https://github.com/gee-community/ee-snippets)
